@@ -1,0 +1,13 @@
+Transcript,Summary,Sentiment
+"Hi, I was unable to login",Parsing failed,Unknown
+"Hi, I was unable to login",Parsing failed,Unknown
+"Hi,The website is taking too long to load",Parsing failed,Unknown
+"Hi,The website is taking too long to load",Parsing failed,Unknown
+"Hi,The website is taking too long to load",Parsing failed,Unknown
+"Hi, I'm interested in your new product, but I have a few questions before I make a purchase.",Customer is interested in the new product but needs more information before making a purchase.,Neutral
+"Hi, I'm interested in your new product, but I have a few questions before I make a purchase.","Customer inquiring about a new product, expressing interest but also wanting to ask questions before purchase.",Neutral
+"Hi, I'm interested in your new product, but I have a few questions before I make a purchase.","Customer interested in new product, wants more information before purchasing.",Neutral
+"Yes. I'm not sure if it's compatible with my current system, and I'm also wondering about the warranty.",Customer has concerns about system compatibility and warranty.,Neutral
+"Hi,I was trying to book a slot yesterday but the payment failed and I didn't receive a refund.",Customer experienced failed payment when booking a slot yesterday and had issues with refund,Negative
+"Hi , I was trying to book a slot yesterday but the payment failed and I didn't receive a refund.","Customer attempted to book a slot but payment failed, and they didn't receive a refund.",Negative
+"Hi, I am interested in your new product but i have few questions before I make the purchase.",Customer is interested in the product but wants more information before making a purchase.,Neutral

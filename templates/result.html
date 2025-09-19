@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Call Analysis Result
+    </title>
+    <style>
+        body {font-family:Arial, Helvetica, sans-serif;margin:30px;}
+        h2{color: #2c3e50;}
+        p {background: #f4f4f4; padding: 10px;border-radius: 5px;}
+    </style>
+</head>
+<body>
+    <h2>Transcript</h2>
+    <p>{{transcript}}</p>
+
+    <h2>Summary</h2>
+    <p>{{summary}}</p>
+
+    <h2>Sentiment</h2>
+    <p>{{sentiment}}</p>
+
+    <form action="{{ url_for('home') }}" method="get">
+        <button type="submit">⬅️ Back to Home</button>
+    </form>
+</body>
+</html>
